@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # Capture CLI arguments
 cmd=$1
