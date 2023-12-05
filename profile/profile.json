@@ -1,0 +1,131 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "UWindsor: Deans Renewable Entrance Scholarship (2019-2023)",
+        "Dean's Honour Roll (2019, 2020)(2020, 2021)(2021, 2022)(2022, 2023)",
+        "LEAD Gold Medallion in recognition of efforts within and beyond the classroom in the areas of Leadership, Engagement, Application and Discovery in the Faculty of Science at the UWindsor",
+        "Grade: 87%"
+      ],
+      "degree": "Bachelor of Computer Science (Honours)",
+      "department": "Computer Science",
+      "duration": "2019-2023",
+      "school_name": "University of Windsor"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
+  "highlighted_projects": [
+    {
+      "description": "Implemented the classic login system in web apps using the MERN stack.",
+      "git_url": "https://github.com/sameeksha-nair/Login-System",
+      "name": "Login system using MERN stack"
+    },
+    {
+      "description": "Created in Unreal Engine. A simple fruit collection game (can be found on my website)",
+      "name": "Fruit Collection Game with Inventory"
+    },
+    {
+      "description": "Evaluated the different regression models and neural networks using Google Colab and various Python libraries (numpy, pandas, sklearn, TensorFlow, etc)",
+      "name": "Evaluating different AI models"
+    },
+    {
+      "description": "Rendered the classic game of tic-tac-toe in C. Looking to create a GUI version.",
+      "git_url": "https://github.com/sameeksha-nair/Tic-Tac-Toe",
+      "name": "Tic-Tac-Toe"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "An app that helps track the memory usage of the host system. Uses bash scripting for scripts, PostgreSQL and Docker for database and git for version control. Also, uses crontab to run script every minute.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Sameeksha Nair",
+  "others": [
+    {
+      "bullets": [
+        "Used to do dancing professionally with a crew",
+        "Loves singing and playing the guitar",
+        "Love trying to learn new languages and discovering different kinds of cultures"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis Consulting Group",
+      "description": "Developed projects using various technologies, which included implementing and testing. Attended daily scrum meetings with rest of the team to discuss work",
+      "duration": "December 2023-present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "Mobalytics",
+      "description": "Researched the video gaming market to suggest new business prospects and ventures for the company. Cleaned and analyzed datasets collected using Microsoft Excel and Tableau. Collaborated with other externs to improve research articles and techniques. Delivered an impressive final presentation on the research and analysis done which gained praise from mentors and peers alike.",
+      "duration": "July 2023-September 2023",
+      "title": "Mobalytics Data Analytics Externship"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Linux/Bash",
+      "Tableau",
+      "Selenium",
+      "Unreal Engine",
+      "Node.js"
+    ],
+    "familiar": [
+      "Tensorflow",
+      "MongoDB",
+      "C#",
+      "PHP",
+      "Numpy/Pandas"
+    ],
+    "proficient": [
+      "Python",
+      "C/C++",
+      "Java",
+      "JavaScript",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git",
+      "Unity",
+      "React.js"
+    ]
+  },
+  "summary": "Hello! My name is Sameeksha Nair and I am a recent graduate from the University of Windsor where I did my Bachelor in Computer Science (Honours) with a specialization in Game Development. I am ambitious, passionate and super excited to start my journey into the tech industry to finally use the skills I have learnt these past 4 years. Through the course of my studies, I was able to learn quite a lot about computer science and was even able to do 2 internships during my studies. I have ample experience working with game engines such as Unity and Unreal Engine, web development tools such as React and Node, databases such as MongoDB and SQL, data analytics tools such as Python and Tableau and even artificial intelligence primarily in Python. I have an interest in many different areas of tech and would love to learn more, explore and grow with the ever-changing market. I am eagerly looking forward to using the skills I have garnered to create software that could impact the world and make a difference."
+}
