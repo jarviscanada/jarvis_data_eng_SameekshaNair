@@ -13,7 +13,7 @@
       "school_name": "University of Windsor"
     }
   ],
-  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_SameekshaNair",
   "highlighted_projects": [
     {
       "description": "Implemented the classic login system in web apps using the MERN stack.",
@@ -80,7 +80,7 @@
     {
       "bullets": [
         "Used to do dancing professionally with a crew",
-        "Loves singing and playing the guitar",
+        "Love singing and playing the guitar, always open to a fun karaoke night",
         "Love trying to learn new languages and discovering different kinds of cultures"
       ],
       "title": "Activities/Hobbies"
@@ -98,6 +98,12 @@
       "description": "Researched the video gaming market to suggest new business prospects and ventures for the company. Cleaned and analyzed datasets collected using Microsoft Excel and Tableau. Collaborated with other externs to improve research articles and techniques. Delivered an impressive final presentation on the research and analysis done which gained praise from mentors and peers alike.",
       "duration": "July 2023-September 2023",
       "title": "Mobalytics Data Analytics Externship"
+    },
+    {
+      "company": "CSKA Automation P Ltd",
+      "description": "Aided in building an open world VR environment in Unreal Engine using C++ and blueprints. Created mini games, inventory system and other functionalities in the virtual world and delivered within the given deadlines. Supported building a dedicated server using the source version of Unreal Engine from the Epic Games GitHub. Used AWS cloud to host server and ensure its smooth running. Took part in the creative process such as world and UI design.",
+      "duration": "January 2022-May 2022",
+      "title": "VR/AR Development Intern"
     }
   ],
   "skills": {
@@ -106,7 +112,9 @@
       "Tableau",
       "Selenium",
       "Unreal Engine",
-      "Node.js"
+      "Node.js",
+      "AWS",
+      "Eclipse"
     ],
     "familiar": [
       "Tensorflow",
@@ -127,5 +135,5 @@
       "React.js"
     ]
   },
-  "summary": "Hello! My name is Sameeksha Nair and I am a recent graduate from the University of Windsor where I did my Bachelor in Computer Science (Honours) with a specialization in Game Development. I am ambitious, passionate and super excited to start my journey into the tech industry to finally use the skills I have learnt these past 4 years. Through the course of my studies, I was able to learn quite a lot about computer science and was even able to do 2 internships during my studies. I have ample experience working with game engines such as Unity and Unreal Engine, web development tools such as React and Node, databases such as MongoDB and SQL, data analytics tools such as Python and Tableau and even artificial intelligence primarily in Python. I have an interest in many different areas of tech and would love to learn more, explore and grow with the ever-changing market. I am eagerly looking forward to using the skills I have garnered to create software that could impact the world and make a difference."
+  "summary": "Hello! My name is Sameeksha Nair and I am a recent graduate from the University of Windsor where I did my Bachelor in Computer Science (Honours) with a specialization in Game Development. I am ambitious, passionate and super excited to start my journey into the tech industry to finally use the skills I have learnt these past 4 years. Through the course of my studies, I was able to expand my knowledge of tech and was even able to do 2 internships during my studies. I have ample experience working with game engines such as Unity and Unreal Engine, web development tools such as React and Node, databases such as MongoDB and SQL, data analytics tools such as Python and Tableau and even artificial intelligence primarily in Python. I have an interest in many different areas of tech and would love to learn more, explore and grow with the ever-changing market. I am eagerly looking forward to using the skills I have garnered to create software that could impact the world and make a difference."
 }
