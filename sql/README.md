@@ -1,5 +1,8 @@
 # Introduction
 
+The aim of this project is to practice SQL queries with real world applications and further expand my knowledge of SQL. We delve into easy SQL queries with simple DDL and then move onto more complex queries such as aggragrates, nested queries and window functions. This project helps provide more insight on SQL and can perhaps help people who are beginners to SQL and want to learn how to use it. The software used for this project is PostgreSQL for the SQL database and DBeaver for easier UI.
+
+
 # SQL Queries
 
 ###### Table Setup (DDL)
@@ -38,7 +41,7 @@ CONSTRAINT bookings_fk FOREIGN KEY (memid) REFERENCES public.members(memid)\
 CONSTRAINT bookings_fk FOREIGN KEY (facid) REFERENCES public.facilities(facid)\
 );
 
-###### Pratice Queries Answers:
+###### Practice Queries Answers:
 
 1. INSERT INTO cd.facilities(facid, name, membercost, guestcost, initialoutlay, monthlymaintenance)\
    VALUES(9, 'Spa', 20, 30, 100000, 800);
@@ -133,7 +136,12 @@ CONSTRAINT bookings_fk FOREIGN KEY (facid) REFERENCES public.facilities(facid)\
 23. SELECT ROW_NUMBER() OVER(ORDER BY joindate) as row_number, firstname, surname\
     FROM cd.members
 
-24. 
+24. SELECT facid, total FROM
+        (SELECT facid, SUM(slots) total, RANK() OVER (ORDER BY SUM(slots) DESC) rank
+        FROM cd.bookings
+        GROUP BY facid) total
+    WHERE rank =1;
+
 25. SELECT surname || ', ' || firstname as name\
     FROM cd.members
 
@@ -141,7 +149,7 @@ CONSTRAINT bookings_fk FOREIGN KEY (facid) REFERENCES public.facilities(facid)\
     FROM cd.members\
     WHERE telephone LIKE '%(%'\
     ORDER BY memid\
-    
+
 27. SELECT LEFT(surname, 1) as letter, COUNT(*) as count\
     FROM cd.members\
     GROUP BY letter\

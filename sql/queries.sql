@@ -104,6 +104,12 @@ ORDER BY joindate;
 SELECT ROW_NUMBER() OVER(ORDER BY joindate) as row_number, firstname, surname
 FROM cd.members;
 
+SELECT facid, total FROM
+  (SELECT facid, SUM(slots) total, RANK() OVER (ORDER BY SUM(slots) DESC) rank
+   FROM cd.bookings
+   GROUP BY facid) total
+WHERE rank =1;
+
 SELECT surname || ', ' || firstname as name
 FROM cd.members;
 
