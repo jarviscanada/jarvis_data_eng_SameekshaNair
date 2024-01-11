@@ -39,40 +39,6 @@
       "description": "An app that helps track the memory usage of the host system. Uses bash scripting for scripts, PostgreSQL and Docker for database and git for version control. Also, uses crontab to run script every minute.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
-    },
-    {
-      "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      ],
-      "git_url": "/core_java",
-      "name": "Core Java Apps"
-    },
-    {
-      "description": "",
-      "git_url": "/springboot",
-      "name": "Springboot App"
-    },
-    {
-      "description": "",
-      "git_url": "/python_data_anlytics",
-      "name": "Python Data Analytics"
-    },
-    {
-      "description": "",
-      "git_url": "/hadoop",
-      "name": "Hadoop"
-    },
-    {
-      "description": "",
-      "git_url": "/spark",
-      "name": "Spark"
-    },
-    {
-      "description": "",
-      "git_url": "/cloud_devops",
-      "name": "Cloud/DevOps"
     }
   ],
   "name": "Sameeksha Nair",
