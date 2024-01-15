@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb6912f7-61c2-4d79-aeb8-056653b7957e" name="Changes" comment="" />
+    <list default="true" id="eb6912f7-61c2-4d79-aeb8-056653b7957e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/centos/dev/jarvis_data_eng_Sameeksha/profile",
+    "last_opened_file_path": "/home/centos/dev/jarvis_data_eng_Sameeksha",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +63,7 @@
       <workItem from="1704755226286" duration="77000" />
       <workItem from="1704755411459" duration="226000" />
       <workItem from="1704996384497" duration="64000" />
+      <workItem from="1705350532744" duration="684000" />
     </task>
     <servers />
   </component>
